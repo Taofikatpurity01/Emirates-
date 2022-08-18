@@ -1,5 +1,6 @@
 nav{background-color:red;} 
 .nav-bar{background-color:red;
-padding:20px;} 
+padding:15px;
+justify-content:space-between;} 
 .emirate{align-items:center;} 
 .favconimg{align-items:right;} 
