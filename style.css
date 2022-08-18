@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-html, body {
-  height: 90%;
-  width: 90%;
-}
 .favconimg{color:white;
 margin-top:25px;
 width:50px;
@@ -47,11 +43,13 @@ margin-bottom:20px;
 .ratings img{
   border-radius:100px;
 }
+p{font-size:12px;
+} 
 .ratings h6{
   font-weight:5px;
 font-size:15px;} 
-}
-.girl{width:20px;
+
+.girl{width:50px;
 }
 footer{
   background-color:#b80000;
