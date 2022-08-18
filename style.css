@@ -26,13 +26,15 @@ background-color:#b80000;
 border-radius:5px;
 padding:12px;
 border:none;
-gap:3px
 margin-top:4px;
 margin-bottom:20px;
 width:80px;
 
 font-size:15px;
 color:white;
+}
+.button{display :flex
+gap:2px;
 }
 span{font-weight:50px;}
 .question{border-top:1px solid #adadad;
