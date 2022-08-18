@@ -1,27 +1,52 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
 .favconimg{color:white;
-margin-top:20px;
+margin-top:25px;
 width:50px;
 }
 /*h2{align-text:center;}*/
 .nav-bar{display:flex;
 justify-content:space-between;
 width:100%;
-background-color:red;} 
+background-color:#b80000;} 
+.emirate{color:white;} 
+         
+.hero img{width:100%;}
 .question button{
-background-color:red;
+background-color:#b80000;
 width:100%;
 border-radius:5px;
 padding:12px;
 border:none;
 margin-top:4px;
 margin-bottom:20px;
+width:80px;
+
 font-size:15px;
 color:white;
 }
-.question{border-top:1px solid gray;
-border-bottom:1px solid gray;
+.question{border-top:1px solid #adadad;
+border-bottom:1px solid #adadad;
 }
-.customer{border-bottom:1px solid gray;
+.customer{border-bottom:1px solid #adadad;
 margin-bottom:20px;
 }
-.star{color:yellow;}
+.star{color:#ff931f;}
+.ratings img{
+  border-radius:100px;
+}
+.ratings h6{
+  font-weight:5px;
+}
+.girl{width:50px;
+}
+footer{
+  background-color:#b80000;
+  text-align:center;
+  padding:10px ;
+border-radius:5px;
+color:white;} 
+  
+
