@@ -14,6 +14,7 @@ width:50px;
 }
 /*h2{align-text:center;}*/
 .nav-bar{display:flex;
+align-items:center;
 justify-content:space-between;
 width:100%;
 background-color:#b80000;} 
@@ -25,6 +26,7 @@ background-color:#b80000;
 border-radius:5px;
 padding:12px;
 border:none;
+gap:3px
 margin-top:4px;
 margin-bottom:20px;
 width:80px;
