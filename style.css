@@ -5,7 +5,7 @@
 }
 
 .favconimg{color:white;
-margin-top:25px;
+margin-top:20px;
 width:50px;
 }
 /*h2{align-text:center;}*/
@@ -29,6 +29,8 @@ width:80px;
 font-size:15px;
 color:white;
 }
+.question span{front-weight:10px;
+} 
 .button{display :flex
 gap:2px;
 }
